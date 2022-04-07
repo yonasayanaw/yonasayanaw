@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yonasayanaw
-- 👀 I’m interested in web development 
+- 👀 I’m interested in data and machine learning  
 - 🌱 I’m currently learning full-stack development.
 - 💞️ I’m looking to collaborate on community supporting software developments.
 - 📫 How to reach me: 
